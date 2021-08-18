@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @james-th94
+- 👋 Hi, I’m James - a meteorologist and student oceanographer
 
 - 👀 I’m interested in wave modelling, ocean wave energy, oceanography and applied mathematics
 
