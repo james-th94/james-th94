@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @james-th94
-- 👀 I’m interested in wave modelling, wave energy, oceanography and meteorology
+
+- 👀 I’m interested in wave modelling, ocean wave energy, oceanography and applied mathematics
+
 - 🌱 I’m currently learning SWAN modelling and Python
+
 - 💞️ I’m looking to collaborate on wave energy and coastal engineering projects
+
 - 📫 I'm reachable via j94.thompson@gmail.com
 
 <!---
