@@ -2,7 +2,7 @@
 - 👀 I’m interested in wave modelling, wave energy, oceanography and meteorology
 - 🌱 I’m currently learning SWAN modelling and Python
 - 💞️ I’m looking to collaborate on wave energy and coastal engineering projects
-- 📫 How to reach me ...
+- 📫 I'm reachable via j94.thompson@gmail.com
 
 <!---
 james-th94/james-th94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
