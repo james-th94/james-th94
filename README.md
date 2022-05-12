@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in wave modelling, ocean wave energy, oceanography and applied mathematics
 
-- 🌱 I’m currently learning SWAN modelling and Python
+- 🌱 I’m currently learning ocean data analysis with Python
 
 - 💞️ I’m looking to collaborate on wave energy and coastal engineering projects
 
